@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-Presents solutions to several of the challenges in Project Euler.
+Solutions to several of the challenges in Project Euler.
 
 ## What is Project Euler?
 
