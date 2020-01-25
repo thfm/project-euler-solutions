@@ -1,5 +1,3 @@
-# Solved 25th July 2019
-
 def is_palindrome(num):
     digits = str(num)
     for i in range(int(len(digits) / 2)):

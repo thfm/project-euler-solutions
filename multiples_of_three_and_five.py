@@ -1,5 +1,3 @@
-# Solved 24th July 2019
-
 running_sum = 0
 
 for i in range(1000):
